@@ -1,0 +1,13 @@
+lymp	P6372_BC_1a	P6372_PC_1a
+lymp	P6948_blood	P6948_lymp
+lymp	P7036_blood	P7036_lymp
+lymp	P7870_blood	P7870_lymp
+lymp	P8506_blood	P8506_lymp
+lymp	P4714_blood_1a	P4714_tumor2_1a
+lymp	P4983_blood_1b	P4983_tumor2_1a
+tumor	P6948_blood	P6948_tumor
+tumor	P7036_blood	P7036_tumor
+tumor	P7870_blood	P7870_tumor
+tumor	P8506_blood	P8506_tumor
+tumor	P4714_blood_1a	P4714_tumor_1a
+tumor	P4983_blood_1b	P4983_tumor_1a

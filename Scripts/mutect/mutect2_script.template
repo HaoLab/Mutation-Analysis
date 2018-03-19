@@ -1,0 +1,5 @@
+cat $1 | while read group normal tumor; do
+  for ((k=1; k<21; ++k)); do
+    echo "bash /lustre/rdi/user/hantc/Pilot-Work/180116-Zhuang/Scripts/mutect2.sh $group $normal $tumor $k"
+  done
+done
